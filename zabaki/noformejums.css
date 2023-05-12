@@ -1,0 +1,36 @@
+body{
+    background-color: #ffffff;
+}
+.virsraksts {
+    text-align: center;
+}
+.klucis1{
+    z-index: -1;
+    position: absolute;
+    width: 197px;
+    height: 58px;
+    margin-left: 43%;
+    margin-top: -70px;
+    background: #D9D9D9;
+    mix-blend-mode: normal;
+}
+.zabaki1{
+    position: absolute;
+    width: 210px;
+    height: 37px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+
+}
+.Klucis2{
+    position: absolute;
+    width: 198px;
+    height: 88px;
+    background: #D9D9D9;
+    mix-blend-mode: normal;
+    margin-left: 33%;
+}
