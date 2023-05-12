@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.pict {
+    position: absolute;
+    width: 551px;
+    height: 337px;
+}
+
+.photo {
+    position: absolute;
+    width: 551px;
+    height: 367px;
+    top: 426px;
+}
+
+h2 {
+    position: absolute;
+width: 276px;
+height: 29px;
+}
