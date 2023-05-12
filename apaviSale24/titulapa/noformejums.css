@@ -1,10 +1,9 @@
-body {
-    background: #00a0c4;
-}
+
 
 /* Rectangle 5 no figmas*/
 .tSturis5{
-position: absolute;
+z-index: -1;
+position:absolute;
 width: 288px;
 height: 97px;
 margin-left:41% ;
@@ -14,13 +13,14 @@ background: #D9D9D9;
 }
 .tSturis5teksts{
     top:47px;
-    text-align: center;
-    margin-left:30.5% ;
+    position:absolute;
+    margin-left:44.5% ;
     font-size: 2em;
 }
 /* Rectangle 7 */
 .tSturis7{
-position: absolute;
+z-index: -1;
+position:absolute;
 width: 300px;
 height: 78px;
 left: 80px;
@@ -33,3 +33,21 @@ background: #D9D9D9;
     margin-left:12% ;
     font-size: 2em;
 }
+/* Rectangle 2 */
+
+.tSturis2{
+z-index: -1;
+position: absolute;
+width: 300px;
+height: 78px;
+left: 511px;
+top: 151px;
+
+background: #D9D9D9;
+}
+.tSturis2teksts{
+    top:172px;
+    position:absolute;
+    margin-left:40% ;
+    font-size: 2em;
+    }
