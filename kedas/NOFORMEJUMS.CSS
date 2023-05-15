@@ -3,19 +3,30 @@ h1 {
 }
 
 .pict {
+    z-index: -2;
     position: absolute;
     width: 551px;
     height: 337px;
 }
 
 .photo {
+     z-index: -2;
     position: absolute;
     width: 551px;
     height: 367px;
     top: 426px;
 }
-
+.kvadrats1{
+z-index: -1;
+position: absolute;
+top:10px;
+width: 1230px;
+height: 90px;
+background: #D9D9D9;
+margin-left: 10%;
+}
 h2 {
+
     position: absolute;
 width: 276px;
 height: 29px;
@@ -55,6 +66,7 @@ line-height: 18px;
 }
 
 .img{
+    z-index: -2;
     position: absolute;
 width: 551px;
 height: 367px;
@@ -102,7 +114,17 @@ margin-left: 565px;
 }
 
 table{
+    position: absolute;
+    margin-top:2em;
     margin-left: 1300px;
+    border:solid;
+    background-color: white;
+    
+}
+td{
+    
+    border:solid;
+
 }
 
 h8{
