@@ -51,3 +51,15 @@ background: #D9D9D9;
     margin-left:40% ;
     font-size: 2em;
     }
+
+    /* Rectangle 1 */
+    
+.tSturis1{
+    position: absolute;
+    width: 300px;
+    height: 78px;
+    left: 1044px;
+    top: 151px;
+    
+    background: #D9D9D9;
+}
