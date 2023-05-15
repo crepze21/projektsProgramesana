@@ -6,31 +6,159 @@ body{
 }
 .klucis1{
     z-index: -1;
-    position: absolute;
+
     width: 197px;
     height: 58px;
-    margin-left: 43%;
+    margin-left: 845px;
     margin-top: -70px;
     background: #D9D9D9;
     mix-blend-mode: normal;
+}
+.Klucis1apavi{
+    position: absolute;
+    width: 198px;
+    height: 120px;
+    z-index: -1;
+    background: #D9D9D9;
+    mix-blend-mode: normal;
+    margin-left: 37%;
+    margin-top: 20px;
 }
 .zabaki1{
     position: absolute;
     width: 210px;
     height: 37px;
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 800;
     font-size: 32px;
     line-height: 39px;
     text-align: center;
-
+    margin-left: 37%;
+    margin-top: 23px;
 }
-.Klucis2{
+.zabaki1a{
+    position: absolute;
+    margin-left: 39%;
+    margin-top: 53px;
+}
+.cena1{
+    position: absolute;
+    width: 316px;
+    height: 72px;   
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    margin-left: 40%;
+    margin-top: 83px;
+}
+.apraksts1{
+    position: absolute;
+    width: 251px;
+    height: 107px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 17px;
+    margin-left: 36%;
+    margin-top: 153px;
+}
+.northface{
+    position: absolute;
+    width: 218px;
+    height: 217px;
+    margin-left: 23%;
+}
+.klucis2apavi{
     position: absolute;
     width: 198px;
-    height: 88px;
+    height: 120px;
+    z-index: -1;
     background: #D9D9D9;
     mix-blend-mode: normal;
-    margin-left: 33%;
+    margin-left: 37%;
+    margin-top: 300px;
+}
+.kuoma{
+    position: absolute;
+    width: 218px;
+    height: 221px;
+    margin-top: 280px;
+    margin-left: 23%;
+}
+.zabaki2{
+    position: absolute;
+    width: 210px;
+    height: 37px;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    margin-left: 37%;
+    margin-top: 300px;
+}
+.zabaki2a{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 330px;
+}
+.cena2{
+    position: absolute;
+    width: 316px;
+    height: 72px;   
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    margin-left: 40%;
+    margin-top: 363px;
+}
+.apraksts2{
+    position: absolute;
+    width: 251px;
+    height: 107px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 17px;
+    margin-left: 36%;
+    margin-top: 433px;
+}
+.atpakal{
+    position: absolute;
+    width: 200px;
+    height: 52px;
+    background: #D9D9D9;
+    margin-left: 70%;
+    margin-top: 450px;
+}
+.sakums{
+    position: absolute;
+    width: 137px;
+    height: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
+    margin-left: 72%;
+    margin-top: 460px;
+}
+.teksts{
+    position: absolute;
+    width: 208px;
+    height: 262px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 130%;
+    color: #000000;
+    margin-left: 50%;
+    margin-top: 150px;
+}
+.tg{
+    margin-left: 62%;
+    margin-top: 120px;
+
 }
