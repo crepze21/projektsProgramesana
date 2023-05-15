@@ -47,6 +47,7 @@ body{
     margin-top: 125px;
 }
 .Nordstrom{
+    z-index:-1;
     position: absolute;
     width: 400px;
     height: 280px;
@@ -55,6 +56,7 @@ body{
     
 }
 .Aldo{
+    z-index:-1;
     position: absolute;
     width: 400px;
     height: 300px;
