@@ -33,9 +33,10 @@ top: 151px;
 background: #D9D9D9;
 }
 .tSturis7teksts{
-    top:172px;
+    text-align: center;
+    top:152px;
     position:absolute;
-    margin-left:9% ;
+    margin-left:6% ;
     font-size: 2em;
 }
 
