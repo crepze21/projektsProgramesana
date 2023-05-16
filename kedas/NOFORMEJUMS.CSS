@@ -1,5 +1,6 @@
 h1 {
     text-align: center;
+    top:5px;
 }
 
 .pict {
@@ -127,7 +128,10 @@ td{
 
 }
 
-h8{
-    margin-top: 500px;
-    margin-left: 1400px;
+.poga{
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 1350px;
+    font-size: 2em;
+    background-color: #D9D9D9;
 }
