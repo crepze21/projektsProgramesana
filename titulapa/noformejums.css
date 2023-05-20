@@ -1,0 +1,129 @@
+
+
+/*Virsraksts*/
+
+.tSturis5{
+z-index: -1;
+position:absolute;
+width: 300px;
+height: 97px;
+margin-left:41% ;
+top: 35px;
+border:1px ;
+background: #D9D9D9;
+}
+.tSturis5teksts{
+    top:60px;
+    position:absolute;
+    margin-left:44.5% ;
+    font-size: 2em;
+}
+
+/*Čības*/
+
+.tSturis7{
+z-index: -1;
+position:absolute;
+width: 200px;
+height: 78px;
+left: 80px;
+top: 151px;
+background: #D9D9D9;
+}
+.tSturis7teksts{
+    text-align: center;
+    top:172px;
+    position:absolute;
+    margin-left:9% ;
+    font-size: 2em;
+}
+
+/*Kurpes*/
+
+.tSturis2{
+z-index: -1;
+position: absolute;
+width: 200px;
+height: 78px;
+left: 450px;
+top: 151px;
+background: #D9D9D9;
+}
+.tSturis2teksts{
+    top:172px;
+    position:absolute;
+    margin-left:33% ;
+    font-size: 2em;
+    }
+
+    /* Zābaki */
+    
+.tSturis1{
+position: absolute;
+width: 200px;
+height: 78px;
+left: 930px;
+top: 151px;
+background: #D9D9D9;
+}
+.tSturis1teksts{
+    top:172px;
+    position:absolute;
+    margin-left:64% ;
+    font-size: 2em;
+}
+
+    /*Kedas*/
+
+.tSturis4{
+    position: absolute;
+    width: 200px;
+    height: 78px;
+    left: 82%;
+    top: 151px;
+    background: #D9D9D9;
+}
+.tSturis4teksts{
+    top:172px;
+    position:absolute;
+    margin-left:85% ;
+    font-size: 2em;
+}
+img{
+    position: absolute;
+    z-index: -3;
+    width: 300px;
+    height: 260px;
+}
+.attels1{ /*Čības*/
+    margin-left: 1%;
+    top:270px;
+}
+.attels2{ /*Kurpes*/
+    margin-left: 25%;
+    top:270px;
+}
+.attels3{ /*Zābaki*/
+    margin-left: 56%;
+    top:270px;
+}
+.attels4{ /*Kedas*/
+    margin-left: 79%;
+    top:270px;
+}
+.teksts1{
+    position:absolute;
+    top:550px;
+    margin-left: 30%;
+    margin-right: 10%;
+    font-size: 1.2em;
+}
+table{
+    border: solid;
+    position: absolute;
+    margin-left: 5%;
+    top: 550px;
+}
+td{
+    border: solid 1px;
+}
